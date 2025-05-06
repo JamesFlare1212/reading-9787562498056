@@ -79,7 +79,7 @@ h1 {
 </style>
 
 ---
-transition: fade-out
+transition: slide-up
 layout: image-left
 image: https://cover.sli.dev
 level: 2
@@ -101,7 +101,7 @@ level: 2
 戏剧疗法的重点在于治疗的过程本身。
 
 ---
-transition: fade-out
+transition: slide-up
 layout: image-left
 image: https://cover.sli.dev
 level: 2
@@ -118,7 +118,7 @@ level: 2
 书中第三章还强调了建立信任关系、设置清晰边界（包括物理、时间和情感边界）、处理移情和反移情等的重要性。
 
 ---
-transition: fade-out
+transition: slide-up
 layout: image-left
 image: https://cover.sli.dev
 level: 2
@@ -183,7 +183,7 @@ h1 {
 </style>
 
 ---
-transition: fade-out
+transition: slide-up
 layout: image-right
 image: https://cover.sli.dev
 level: 2
@@ -196,7 +196,7 @@ level: 2
 第六章介绍的角色扮演、剧本使用、故事讲述等方法都体现了这一点。这让我意识到，有时候，“不直接”反而更有效。
 
 ---
-transition: fade-out
+transition: slide-up
 layout: image-right
 image: https://cover.sli.dev
 level: 2
@@ -246,7 +246,7 @@ h1 {
 </style>
 
 ---
-transition: fade-out
+transition: slide-up
 layout: image-left
 image: https://cover.sli.dev
 level: 2
@@ -289,7 +289,7 @@ level: 2
 它与其他心理治疗方法（如认知行为疗法、精神分析等）相比，其独特性和有效性如何？
 
 ---
-transition: fade-out
+transition: slide-up
 layout: end
 level: 1
 ---
