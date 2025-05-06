@@ -309,5 +309,3 @@ h1 {
   -moz-text-fill-color: transparent;
 }
 </style>
-
----
